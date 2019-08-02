@@ -1,0 +1,54 @@
+keyword,value
+your,*
+name,i'm boomer 
+age, i don't like to share my age
+creator, akshay,praneeth and gopi chand 
+gender,i'm a female bot
+take,*
+admission,The Cegep of Gaspésie and the Islands is made up of a national school and three campuses, spread out in different cities of the region. It is possible to study in Carleton-sur-Mer, Gaspé, Grande-Rivière or the Magdalen Islands. Whatever your choice, our CEGEP is distinguished by its measures to help success and the availability of its teachers.Each field of study has a different approach and offers several peculiarities. One element is common to all: the proximity of nature! The Gaspé Peninsula and the Îles-de-la-Madeleine, which come into the Gulf of St. Lawrence, are endowed with extraordinary panoramas. Here, wherever you are, fresh or salt water is never far away. This regional characteristic allows Gaspésiens and Madelinots to practice several sports and outdoor activities near their places of study or residence. In fact, according to National Geographic magazine, our region is one of the 20 best destinations to visit in the world.
+specialization,mad cst
+training,A meticulously designed training program aimed at improving communication, technical and organizing skills cater to the needs and students of various standards and requirements. In fact, these training requirements are spread through the entire course curriculum so that the students are continuously triggered either for placements or for higher studies.
+1) Awareness of career options
+2) Social skills
+3) Communication and presentation skills
+4) Confidence building
+5) Awareness on Industry functioning
+6) Work place technologies
+7) Fundamental certifications
+9) Professional Certifications
+10) Strengthening of Technical Skills
+11) Exposure to Industrial functioning through External experts
+12) Mock Drives
+placement,internships are there in final year
+college,Since 1960, Gaspésie, like all of Québec, has experienced a rapid and intense schooling. With the creation of the Department of Education, in 1964 the regional school boards of Chaleur Bay, the Peninsula, Monts and Gaspésia were created, serving the entire peninsula at the secondary school level. At the same time, the local school boards, responsible for primary education, were set up. At the same time as these new school boards were being organized, and a chain of multi-purpose schools was being built all around Gaspésie, the Gaspésiens had to fight to preserve and develop the college level of education.
+library,there is no great library as cegep deals everything digitally
+computer,there is a computer for each student in the class room
+health,we have first aid at college
+sport,we have sport events at one part of the year
+canteen,we have canteen at the ground floor on the right side after enterning the campus
+stationery,To facilitate student needs, the college has an in house stationery store. The student friendly store meets customized needs of the various courses. The stationery also offers photocopying and printing facilities for students. All stationary items are made available in the stores at reasonable rates, fixed by the college management.
+water, we have water in our campus at different places
+backup,campus has very efficient power backup facility
+hostel,we dont have a hostel
+wifi,campus provides very high speed free wifi
+hi,hi there
+hello,hello glad to see you
+chairman,we dont have a chairman we have only academic advisors
+principal,we dont have any one called principal but we have advisors for each course
+ceo,we dont have a ceo
+department,mad cst finance courses
+faculty,Faculty in Mad department: 
+1. Mr. YASH SHETH   Software Developement Tools 
+2.Ms. Sakshi Sharma Intoduction to Mobile Programming 
+3.Mr. Vijay Algorithms, PSuedo code 
+4. Ms. Veronique Mathematics 
+infrastructure,****
+achievement,Located at the eastern tip of Québec, Canada, the Cégep de la Gaspésie et des Îles is a bilingual (French and English) public institution of higher learning with a student population of about 1250. The Cégep has 4 campuses including the École des pêches et de l’aquaculture du Québec (Quebec’s School of Fisheries and Aquaculture). The Cegep’s slogan, Study in a unique natural environment, was chosen because the location of its campuses in a remote region allows students to enjoy an exceptional natural setting. Indeed, according to the National Geographic magazine, our region is one of the top 20 destinations to visit in the world. Student success is an institutional priority. From day one of their college education, students have access to various academic support measures including personal academic counselling, a guidance service and teacher-student tutoring. A range of adapted services is also available for students with physical, sensory, neurological or organic impairment as well as those with learning disorders or mental health problems. These measures have helped our Cegep achieve a first semester success rate of 84,7% compared to the Quebec college average of 81 %. Studying at the Cégep de la Gaspésie et des Îles provides students with a high quality education in a personalized learning environment!
+research,Located at the eastern tip of Québec, Canada, the Cégep de la Gaspésie et des Îles is a bilingual (French and English) public institution of higher learning with a student population of about 1250. The Cégep has 4 campuses including the École des pêches et de l’aquaculture du Québec (Quebec’s School of Fisheries and Aquaculture). The Cegep’s slogan, Study in a unique natural environment, was chosen because the location of its campuses in a remote region allows students to enjoy an exceptional natural setting. Indeed, according to the National Geographic magazine, our region is one of the top 20 destinations to visit in the world. Student success is an institutional priority. From day one of their college education, students have access to various academic support measures including personal academic counselling, a guidance service and teacher-student tutoring. A range of adapted services is also available for students with physical, sensory, neurological or organic impairment as well as those with learning disorders or mental health problems. These measures have helped our Cegep achieve a first semester success rate of 84,7% compared to the Quebec college average of 81 %. Studying at the Cégep de la Gaspésie et des Îles provides students with a high quality education in a personalized learning environment!
+professional society,Located at the eastern tip of Québec, Canada, the Cégep de la Gaspésie et des Îles is a bilingual (French and English) public institution of higher learning with a student population of about 1250. The Cégep has 4 campuses including the École des pêches et de l’aquaculture du Québec (Quebec’s School of Fisheries and Aquaculture). The Cegep’s slogan, Study in a unique natural environment, was chosen because the location of its campuses in a remote region allows students to enjoy an exceptional natural setting. Indeed, according to the National Geographic magazine, our region is one of the top 20 destinations to visit in the world. Student success is an institutional priority. From day one of their college education, students have access to various academic support measures including personal academic counselling, a guidance service and teacher-student tutoring. A range of adapted services is also available for students with physical, sensory, neurological or organic impairment as well as those with learning disorders or mental health problems. These measures have helped our Cegep achieve a first semester success rate of 84,7% compared to the Quebec college average of 81 %. Studying at the Cégep de la Gaspésie et des Îles provides students with a high quality education in a personalized learning environment!
+seminar,some professors ask the students to give a seminar which may be evaluated or not it may depend on faculty
+club,there are different clubs in our college for example there are sports and cultural clubs
+fee,7500 per semester
+mission,the mission is to offer general and professional collegial level education
+vision,the vision is to  offer general and professional collegial level education
+guide,we have academic advisors

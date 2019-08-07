@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>QUERYS?</title>
+  <meta charset="utf-8">
+  	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style type="text/css">
+			body{ font-size: 20px;background:#f5f5f5;}
+			a{cursor:pointer;}
+		</style>
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+	
+.tz-link{
+	text-decoration: none;
+	color: #fff !important;
+	font: bold 36px Arial,Helvetica,sans-serif !important;
+}
+
+.tz-link span{
+	color: #da431c;
+}
+.form-search{
+    margin: 0 auto;
+    text-align: center;
+
+    font: bold 13px sans-serif;
+    max-width: 325px;
+    position: relative;
+}
+
+.form-search input{
+    width: 230px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 2px;
+    border-top-left-radius: 2px;
+    background-color:  #ffffff;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+    padding: 14px 15px 14px 40px;
+    border: 1px solid #b6c3cd;;
+    border-right: 0;
+    color:#4E565C;
+    outline: none;
+    -webkit-appearance: none;
+}
+
+
+.form-search button{
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    background-color:  #6caee0;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
+    color: #ffffff;
+    padding: 15px 22px;
+    margin-left: -4px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+	border-radius: 4px;
+	
+}
+
+.form-search i{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    font-size: 16px;
+    color: #80A3BD;
+}
+
+/* Placeholder color */
+
+.form-search input::-webkit-input-placeholder {
+    color:  #879097;
+}
+
+.form-search input::-moz-placeholder {
+    color:  #879097;
+    opacity: 1;
+}
+
+.form-search input:-ms-input-placeholder {
+    color:  #879097;
+}
+
+  </style>
+</head>
+
+<body>
+
+<div class="w3-bar w3-white w3-large">
+<img src="https://cegepgim.koha.ccsr.qc.ca/opac-tmpl/bootstrap/images/cegeps/gaspe_img_logo_cegep.png" width="100%">
+ </div>
+  
+<div class="container-fluid text-center">    
+  <div class="row content">
+   
+    <div class="col-sm-8 text-left"> 
+     <nav class="nav">
+<ul>
+</ul>
+</nav>
+
+<article class="article">
+ <div>
+ 
+ </div>
+ 
+ <form class="form-search" name ="form" method="get" action="qwerty.php">
+            <input type="search" name="name" id="name" value="hi" placeholder="Type a query.. ">
+        <button type="submit" name="submit" id="submit">Submit</button>
+			<button type="submit" name="hello" id="hello">NotThisOne</button>
+
+            <i class="fa fa-search"></i>
+        </form>
+
+</article>
+<center><bold></center><br/>you: hi<br/>Boomer: 
+</div>
+    </div>
+    
+  </div>
+</div>
+
+
+</body>
+</html>

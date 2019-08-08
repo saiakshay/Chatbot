@@ -1,0 +1,14 @@
+function fmaximum($link)
+{
+	extract($GLOBALS);
+	global $flag,$flink;
+	$q=0;
+	while($link!=0)
+	{
+		if($q<$flag[$link])
+		$q=$flag[$link];
+	    $link=$flink[$link];
+	}
+	return $q;
+	
+}

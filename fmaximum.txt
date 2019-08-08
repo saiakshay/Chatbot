@@ -9,6 +9,6 @@ function fmaximum($link)
 		$q=$flag[$link];
 	    $link=$flink[$link];
 	}
-	return $q;
+	return $q;//returns the string 
 	
 }

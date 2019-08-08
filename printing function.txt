@@ -1,0 +1,39 @@
+ for($i=0;$i<sizeof($kee);$i++)
+	{
+		for($j=0;$j<sizeof($kee);$j++)
+	        {
+				if($i!=$j){
+				if($kee[$i]==$kee[$j])
+				{
+					if($flag[$i]>$flag[$j])
+						$flag[$j]=0;
+				}
+				}
+	        }
+	}
+function printing($shw)
+{
+//	$shw = explode(" ", $shw);
+	for($i=0;$i<(strlen($shw));$i++)
+	{
+		if($shw[$i]=="x"&&$shw[$i+1]=="y"&&$shw[$i+2]=="z"){
+			$shw[$i]==" ";$shw[$i+1]=" ";$shw[$i+2]=" ";
+						echo "<br/>";
+		}
+else if($shw[$i]=="z"&&$shw[$i+1]=="y"&&$shw[$i+2]=="x"){
+			$shw[$i]==" ";$shw[$i+1]=" ";$shw[$i+2]=" ";
+						echo "   ";
+}
+						else if($shw[$i]=="y"&&$shw[$i+1]=="x"&&$shw[$i+2]=="z"){
+			$shw[$i]==" ";$shw[$i+1]=" ";$shw[$i+2]=" ";
+						echo " ";
+						
+		}else 
+			echo $shw[$i];
+	}
+	
+}
+printing("you: ".$quest);
+echo "<br/>";
+printing("Boomer: ");
+$final="";

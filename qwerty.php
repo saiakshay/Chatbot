@@ -191,7 +191,7 @@ function depluralize($word){
     }
     return $word;
 }
-$keyword = array("syllabu","carrier","guidance","location","your","name","age","creator","gender","take","admission","specialization","training","wifi","bu","fee","library","computer","health","sport","canteen","stationary","water","hostel","faculty","infrastructure","achievement","research","professional society","seminar","clubs","department","vision","mission","college","ceo","principal","chairman","hi","hello","backup","guide","first","second","third","fourth","subject");
+$keyword = array("syllabus","carrier","guidance","location","your","name","age","creator","gender","take","admission","specialization","training","wifi","bu","fee","library","computer","health","sport","canteen","stationary","water","hostel","faculty","infrastructure","achievement","research","professional society","seminar","clubs","department","vision","mission","college","ceo","principal","chairman","hi","hello","backup","guide","first","second","third","fourth","subject");
 //$question= "what is your age";
 //$question = $_POST["name"];
 $q=$question = isset($_GET['name']) ? $_GET['name'] : '';
@@ -202,7 +202,7 @@ if (isset($_GET['hello'])) {
 	   $sql = "DELETE FROM notfound WHERE query = ''";
 	   	   $conn->query($sql);
 
-		echo "Thanks we will update soon.";
+		echo "Thanks we will update  this soon.";
     }
 if (isset($_GET['submit'])) {
     $quest=$question;

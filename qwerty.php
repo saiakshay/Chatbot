@@ -191,7 +191,7 @@ function depluralize($word){
     }
     return $word;
 }
-$keyword = array("em","pce","ep","ec","m1","syllabu","carrier","guidance","location","your","name","age","creator","gender","take","admission","specialization","training","vignan","placement","wifi","bu","fee","nptel","library","delnet","computer","health","sport","canteen","stationary","water","hostel","mous","cse","ece","eee","eie","mech","civil","hod","bsh","faculty","infrastructure","achievement","research","professional society","seminar","clubs","department","vision","mission","college","ceo","principal","chairman","hi","hello","backup","guide","first","second","third","fourth","subject");
+$keyword = array("syllabu","carrier","guidance","location","your","name","age","creator","gender","take","admission","specialization","training","wifi","bu","fee","library","computer","health","sport","canteen","stationary","water","hostel","faculty","infrastructure","achievement","research","professional society","seminar","clubs","department","vision","mission","college","ceo","principal","chairman","hi","hello","backup","guide","first","second","third","fourth","subject");
 //$question= "what is your age";
 //$question = $_POST["name"];
 $q=$question = isset($_GET['name']) ? $_GET['name'] : '';
